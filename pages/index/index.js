@@ -6,7 +6,8 @@ Page({
     //轮播图数组
     swiperList:[],
     cateList:[],
-    floorList:[]
+    floorList:[],
+    hahaTest:[]
   },
   //options(Object)
   onLoad: function(options) {
